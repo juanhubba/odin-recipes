@@ -1,0 +1,51 @@
+#main{
+    color: black;
+    font-size: xx-large;
+    box-sizing: content-box;
+}
+
+
+.index-page-body{
+    
+    background-image: url("images/cookbook-cover.jpg");
+    background-color: bisque;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 20%;
+}
+
+.spaghetti-page-body{
+    
+    /*background-image: url("images/cookbook-cover.jpg");*/
+    background-color: bisque;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 20%;
+}
+
+.eggrolls-page-body{
+    
+     /*background-image: url("images/cookbook-cover.jpg");*/
+    background-color: bisque;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 20%;
+}
+
+.pizza-page-body{
+    
+     /*background-image: url("images/cookbook-cover.jpg");*/
+    background-color: bisque;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 20%;
+}
+
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.link-text{
+    font-size: large;
+    font-style: italic;
+}
